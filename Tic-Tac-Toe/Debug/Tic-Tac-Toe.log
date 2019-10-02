@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\uncle blayzer\desktop\school\git_projects\tic-tac-toe\tic-tac-toe\source.cpp(229): warning C4018: '<': signed/unsigned mismatch
+c:\users\uncle blayzer\desktop\school\git_projects\tic-tac-toe\tic-tac-toe\source.cpp(268): warning C4018: '<': signed/unsigned mismatch
+c:\users\uncle blayzer\desktop\school\git_projects\tic-tac-toe\tic-tac-toe\source.cpp(292): warning C4018: '<': signed/unsigned mismatch
+  Tic-Tac-Toe.vcxproj -> C:\Users\Uncle Blayzer\Desktop\School\Git_Projects\Tic-Tac-Toe\Debug\Tic-Tac-Toe.exe
