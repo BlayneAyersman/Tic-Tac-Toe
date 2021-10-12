@@ -3,4 +3,4 @@ This Windows Console Application, written in C++, is a simple text-based Tic-Tac
 The interesting aspect of the game design is that the artificial opponent is unbeatable. Since Tic-Tac-Toe is a solved zero-sum game, I've implemented a recursive minimax algorithm which simulates all possible outcomes of the game resulting from each move available to the artificial opponent each turn. By scoring each simulated outcome as positive/negative/zero based on whether it's a win/loss/draw for the artifical opponent, and summating those scores, the artificial opponent is able to calculate the optimal move each turn. To keep the gameplay dynamic, I've randomized the opponent's decision-making process between available moves that the algorithm scores as equally optimal.
 
 The program is currently only desgined to be run on Windows. 
-You can run the program by simply cloning/downloading the repository and running the .cpp file.
+You can run the program by simply cloning/downloading the repository and running the source.cpp file in the Tic-Tac-Toe folder.
